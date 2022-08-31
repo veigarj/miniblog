@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<!---<img src="exemplo-image.png" alt="exemplo imagem">--->
 
 > Projeto Mini Blog, foi ultilizado React com Javascript onde foi colocado Routes para NavBar e rotas, formulario de cadastro, area de usuario logado com edicao de postagens e banco de dados Firebase
 
