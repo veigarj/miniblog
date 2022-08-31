@@ -15,5 +15,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação da aplicação do React, Route e Firebase
 - [x] Config de Route Navbar e Footer
 - [x] config formulario de cadastro 
-- [ ] 
-- [ ] 
+
