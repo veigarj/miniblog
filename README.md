@@ -13,7 +13,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Criação da aplicação do React, Route e Firebase
-- [ ] Criação e config de Firebase
+- [x] Criação e config de Firebase
 - [x] Config de Route Navbar e Footer
 - [x] config formulario de cadastro
+- [x] Hooks de Autenticação
 
